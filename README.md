@@ -11,3 +11,5 @@ how to use each part of the MCU.
 5.Timer driven with change on button push  
 
 Now we can discuss how do actually creae each one of these. 
+###Loop driven blinky  
+This is a program that toggles the LED off and on at a set interval. Say every second. 
